@@ -7,7 +7,7 @@ This is a simple server-based web-application designed in accordance to Java SOL
 * Register new user and login for an existing users
 * Roles for access to data as an 'ADMIN' or as a "USER"
 * Manage movies, movie sessions, and cinema halls
-* Bгy tickets throw a shopping cart and complete the order
+* Buy tickets throw a shopping cart and complete the order
 
 For exchange information in solution used `JSON` format
 
@@ -16,7 +16,7 @@ The solution based on 3-tier architecture:
 1. DAO - Data access layer;
 2. Service - Business logic layer;
 3. Controllers - Presentation layer.
-   <img src="schema.png">
+   <img src="img\schema.png">
 
 ## Technologies
 * JDK 11;
